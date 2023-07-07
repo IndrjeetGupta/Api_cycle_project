@@ -56,7 +56,7 @@
 },
 
 { "id": 4,
-"title":"EMotorad X1 Mountain Electric Cycle",
+"title":"EMotorad Electric Cycle",
 "image": "https://m.media-amazon.com/images/I/71j9EIGg10L._SL1500_.jpg",
 "image1": "https://m.media-amazon.com/images/I/81aVqDPMgFL._SL1500_.jpg",
 "image2": "https://m.media-amazon.com/images/I/715dTUWCuqL._SL1500_.jpg",
@@ -90,7 +90,7 @@
  "model_year": "2023" 
 },
 { "id": 6,
-"title": "Lifelong LLBC1402 Juniors Ride Kids", 
+"title": "Lifelong Juniors Ride Kids", 
 "image": "https://m.media-amazon.com/images/I/81iRt1kdeeL._SL1500_.jpg",
 "image1": "https://m.media-amazon.com/images/I/81-kru+h-3L._SL1500_.jpg",
 "image2": "https://m.media-amazon.com/images/I/81lgin25E3L._SL1500_.jpg",
@@ -143,7 +143,7 @@
 },
 
 { "id": 9,
-"title": "EMotorad Doodle v2 Foldable Electric Cycle", 
+"title": "EMotorad Electric Cycle", 
 "image": "https://m.media-amazon.com/images/I/71iO5rp3CfL._SL1500_.jpg",
 "image1": "https://m.media-amazon.com/images/I/81vL4275TeL._SL1500_.jpg",
 "image2": "https://m.media-amazon.com/images/I/71fqCson-eL._SL1500_.jpg",
@@ -160,7 +160,7 @@
  "model_year": "2023" 
 },
 { "id": 10,
-"title": "Gear Head Motors F Series Electric Cycle", 
+"title": "Gear Head Electric Cycle", 
 "image": "https://m.media-amazon.com/images/I/71kjWZWL9hL._SL1500_.jpg",
 "image1": "https://m.media-amazon.com/images/I/81ualgf7mQL._SL1500_.jpg",
 "image2": "https://m.media-amazon.com/images/I/91R4k2WZMyL._SL1500_.jpg",
@@ -372,7 +372,7 @@
 },
 
 { "id": 22,
-"title":"EMotorad X1 Mountain Electric Cycle",
+"title":"EMotorad X1 Electric Cycle",
 "image": "https://m.media-amazon.com/images/I/71j9EIGg10L._SL1500_.jpg",
 "image1": "https://m.media-amazon.com/images/I/81aVqDPMgFL._SL1500_.jpg",
 "image2": "https://m.media-amazon.com/images/I/715dTUWCuqL._SL1500_.jpg",
@@ -406,7 +406,7 @@
 "model_year": "2023" 
 },
 { "id": 24,
-"title": "Lifelong LLBC1402 Juniors Ride Kids", 
+"title": "Lifelong Juniors Ride Kids", 
 "image": "https://m.media-amazon.com/images/I/81iRt1kdeeL._SL1500_.jpg",
 "image1": "https://m.media-amazon.com/images/I/81-kru+h-3L._SL1500_.jpg",
 "image2": "https://m.media-amazon.com/images/I/81lgin25E3L._SL1500_.jpg",
@@ -459,7 +459,7 @@
 },
 
 { "id": 27,
-"title": "EMotorad Doodle v2 Foldable Electric Cycle", 
+"title": "EMotorad v2 Electric Cycle", 
 "image": "https://m.media-amazon.com/images/I/71iO5rp3CfL._SL1500_.jpg",
 "image1": "https://m.media-amazon.com/images/I/81vL4275TeL._SL1500_.jpg",
 "image2": "https://m.media-amazon.com/images/I/71fqCson-eL._SL1500_.jpg",
@@ -476,7 +476,7 @@
 "model_year": "2023" 
 },
 { "id": 28,
-"title": "Gear Head Motors F Series Electric Cycle", 
+"title": "Gear Head Electric Cycle", 
 "image": "https://m.media-amazon.com/images/I/71kjWZWL9hL._SL1500_.jpg",
 "image1": "https://m.media-amazon.com/images/I/81ualgf7mQL._SL1500_.jpg",
 "image2": "https://m.media-amazon.com/images/I/91R4k2WZMyL._SL1500_.jpg",
@@ -493,7 +493,7 @@
 "model_year": "2023"  
 },
 { "id": 29,
-"title": "VECTOR 91 Space Fighter 16T", 
+"title": "VECTOR 91 Fighter 16T", 
 "image": "https://m.media-amazon.com/images/I/71rQ3ykKbPL._SL1500_.jpg",
 "image1": "https://m.media-amazon.com/images/I/51grrrBAxkL.jpg",
 "image2": "https://m.media-amazon.com/images/I/51uDCdfTTRL.jpg",
@@ -722,7 +722,7 @@
 "model_year": "2023" 
 },
 { "id": 42,
-"title": "Lifelong LLBC1402 Juniors Ride Kids", 
+"title": "Lifelong LLBC1402 Ride Kids", 
 "image": "https://m.media-amazon.com/images/I/81iRt1kdeeL._SL1500_.jpg",
 "image1": "https://m.media-amazon.com/images/I/81-kru+h-3L._SL1500_.jpg",
 "image2": "https://m.media-amazon.com/images/I/81lgin25E3L._SL1500_.jpg",
@@ -775,7 +775,7 @@
 },
 
 { "id": 45,
-"title": "EMotorad Doodle v2 Foldable Electric Cycle", 
+"title": "EMotorad Electric Cycle", 
 "image": "https://m.media-amazon.com/images/I/71iO5rp3CfL._SL1500_.jpg",
 "image1": "https://m.media-amazon.com/images/I/81vL4275TeL._SL1500_.jpg",
 "image2": "https://m.media-amazon.com/images/I/71fqCson-eL._SL1500_.jpg",
@@ -792,7 +792,7 @@
 "model_year": "2023" 
 },
 { "id": 46,
-"title": "Gear Head Motors F Series Electric Cycle", 
+"title": "Gear F Series Electric Cycle", 
 "image": "https://m.media-amazon.com/images/I/71kjWZWL9hL._SL1500_.jpg",
 "image1": "https://m.media-amazon.com/images/I/81ualgf7mQL._SL1500_.jpg",
 "image2": "https://m.media-amazon.com/images/I/91R4k2WZMyL._SL1500_.jpg",
